@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "triangulo de pascal/1.0.0": {
+        "runtime": {
+          "triangulo de pascal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "triangulo de pascal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

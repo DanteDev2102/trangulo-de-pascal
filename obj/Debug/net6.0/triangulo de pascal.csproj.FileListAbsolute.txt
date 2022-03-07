@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\triangulo de pascal.exe
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\triangulo de pascal.deps.json
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\triangulo de pascal.runtimeconfig.json
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\triangulo de pascal.dll
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\ref\triangulo de pascal.dll
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\bin\Debug\net6.0\triangulo de pascal.pdb
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.dll
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\ref\triangulo de pascal.dll
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.pdb
+C:\Users\Lenovo\Documents\programacion2\triangulo de pascal\obj\Debug\net6.0\triangulo de pascal.genruntimeconfig.cache
